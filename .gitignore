@@ -1,0 +1,17 @@
+# Certificates
+*.crt
+*.csr
+*.pem
+*.pfx
+
+# Environment Files
+.env
+
+# PDF Files
+Combined.pdf
+
+# Python Cache
+__pycache__
+
+# Python Virtual Environment
+venv
